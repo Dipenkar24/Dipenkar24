@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dipankar24
-- 👀 I’m interested in Business and Data Analyst
-- 🌱 I’m currently learning Data Visulation
+- 👀 I’m working as a Business Data Analyst
 - 💞️ I’m looking to collaborate with data projects
 - 📫 How to reach me through mail
 <!---
