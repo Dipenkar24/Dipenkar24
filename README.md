@@ -54,10 +54,6 @@ The project received significant recognition, being inaugurated by Shri Piyush G
 - New Inovation and launches
 
 
-## Apart from Professional World - Never Not Moving
-**Cycling, Skating, Hiking, Online Games**  
-
-
 ## Where What When
 -  Feb 2023 to April 2025 - Business Analyst @TCS
 -  Jan 2022 to Feb 2023 - Analyst @TCS
@@ -68,7 +64,12 @@ The project received significant recognition, being inaugurated by Shri Piyush G
 -  2007-2011 - Primary to 5th - Oxford Public School, Ranchi
 
 
+
 ## Lets connect!
 ![Static Badge](https://img.shields.io/badge/Gmail-%23d3d3d3?style=for-the-badge&logo=gmail&logoColor=red&labelColor=e6e6e6&color=e6e6e6&link=(mailto:atishdipankar99@gmail.com))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankar-atish-business-analyst/)
+
+
+## Apart from Professional World - Never Not Moving
+**Cycling, Skating, Hiking, Online Games**  
 
