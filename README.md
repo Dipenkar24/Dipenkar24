@@ -16,7 +16,8 @@ SQL, Power BI, DAX, QlikSenes, AWS, Alteryx,
 - DGFT
 
 ## Work Experience
--	## Business Analyst (01/02/2023 - Present)
+
+	## Business Analyst (01/02/2023 - Present)
 -	Key contributor to the service design team, leading the transformation of the client from a legacy system and manual processes to a digitally transformed environment.
 - Collaborated with client’s policy division to develop and implement automation rules for over 5 applications, resulting in 40% increase in processing efficiency.
 •	Led requirement gathering, feasibility analysis, prepared BRDs/FRDs and maintaining SRS, improving delivery timelines by 20% and reducing defect rates by 50%.
