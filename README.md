@@ -5,13 +5,13 @@ gathering to implementation, ensuring alignment with business objectives and del
 With a strong focus on data visualization, business intelligence, and data analysis, I excel at transforming raw data into actionable 
 reports and dashboards, leveraging tools such as Qlik Sense, Power BI, and SQL to drive data-driven decision-making. 
 
-## Skills
+## Skills:
 ![]()
 MySQL, Power BI, DAX, QlikSenes, Microsoft Excel, AWS, Alteryx, ETL, CRM tool, Data Modeling, Documenting BRD/FRD and SRS
 
 
-## Work Experience
-
+## Work Experience:
+![]()
 **Business Analyst (01/02/2023 - 01/04/2025))**
 -	Key contributor to the service design team, leading the transformation of the client from a legacy system and manual processes to a digitally transformed environment.
 - Collaborated with client’s policy division to develop and implement automation rules for over 5 applications, resulting in 40% increase in processing efficiency.
@@ -27,7 +27,8 @@ MySQL, Power BI, DAX, QlikSenes, Microsoft Excel, AWS, Alteryx, ETL, CRM tool, D
 -	Data Cleaning, modelling and ETL development on large datasets. 
 
 
-## Domain Experience
+## Domain Experience:
+![]()
 **Director General of Foreign Trade (Ministry of Commerce and Industry Led by Central Government of India)**
 - I have gained extensive domain experience while working with the Director General of Foreign Trade (DGFT), a central government body under the Ministry of Commerce and Industry, during my tenure at Tata Consultancy Services. 
 - DGFT plays a critical role in formulating and regulating India’s foreign trade policies, ensuring the smooth functioning of import-export businesses and fostering economic growth of India.
