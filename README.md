@@ -7,7 +7,6 @@ reports and dashboards, leveraging tools such as Qlik Sense, Power BI, and SQL t
 
 ## Skills
 ![]()
-
 SQL, Power BI, DAX, QlikSenes, AWS, Alteryx, 
 ## 
 
