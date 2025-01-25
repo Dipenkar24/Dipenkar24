@@ -12,6 +12,25 @@ SQL, Power BI, DAX, QlikSenes, AWS, Alteryx,
 
 ![]()
 
+
+
+## Work Experience
+
+**Business Analyst (01/02/2023 - 01/04/2025))**
+-	Key contributor to the service design team, leading the transformation of the client from a legacy system and manual processes to a digitally transformed environment.
+- Collaborated with client’s policy division to develop and implement automation rules for over 5 applications, resulting in 40% increase in processing efficiency.
+-	Led requirement gathering, feasibility analysis, prepared BRDs/FRDs and maintaining SRS, improving delivery timelines by 20% and reducing defect rates by 50%.
+-	Designed and developed interactive dashboards and ad hoc reporting using Qlik Sense, Power BI, SQL and Excel, delivering insights that improved decision-making across departments.
+-	Conducted comprehensive UAT sessions with stakeholders, ensuring quality assurance and successful project delivery.
+  
+**Analyst (01/01/2022 - 01/02/2023)**
+-	Developed and optimised over 25 dashboards for operational matrices, KPIs and ad-hoc reporting. 
+-	Worked closely with stakeholders to identify reporting needs, ensuring alignment with business objectives and enhancing client satisfaction.
+-	Resolved significant data integration challenges between legacy and new systems, achieving a 70% correction in data accuracy.
+-	Designed dashboards using star and snowflake schemas by integrating data with AWS Redshift, CSV, and flat files, improving data accessibility by 50%.
+-	Data Cleaning, modelling and ETL development on large datasets. 
+
+
 ## Domain Experience
 **Director General of Foreign Trade (Ministry of Commerce and Industry led by Central Government)**
 - I have gained extensive domain experience while working with the Director General of Foreign Trade (DGFT), a central government body under the Ministry of Commerce and Industry, during my tenure at Tata Consultancy Services. 
@@ -33,22 +52,6 @@ The project received significant recognition, being inaugurated by Shri Piyush G
 
 **Smartphone Industries**
 - New Inovation and launches
-
-## Work Experience
-
-**Business Analyst (01/02/2023 - 01/04/2025))**
--	Key contributor to the service design team, leading the transformation of the client from a legacy system and manual processes to a digitally transformed environment.
-- Collaborated with client’s policy division to develop and implement automation rules for over 5 applications, resulting in 40% increase in processing efficiency.
--	Led requirement gathering, feasibility analysis, prepared BRDs/FRDs and maintaining SRS, improving delivery timelines by 20% and reducing defect rates by 50%.
--	Designed and developed interactive dashboards and ad hoc reporting using Qlik Sense, Power BI, SQL and Excel, delivering insights that improved decision-making across departments.
--	Conducted comprehensive UAT sessions with stakeholders, ensuring quality assurance and successful project delivery.
-  
-**Analyst (01/01/2022 - 01/02/2023)**
--	Developed and optimised over 25 dashboards for operational matrices, KPIs and ad-hoc reporting. 
--	Worked closely with stakeholders to identify reporting needs, ensuring alignment with business objectives and enhancing client satisfaction.
--	Resolved significant data integration challenges between legacy and new systems, achieving a 70% correction in data accuracy.
--	Designed dashboards using star and snowflake schemas by integrating data with AWS Redshift, CSV, and flat files, improving data accessibility by 50%.
--	Data Cleaning, modelling and ETL development on large datasets. 
 
 
 ## Apart from Professional World - Never Not Moving
