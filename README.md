@@ -21,12 +21,12 @@ As part of the service design team, I played a key role in transforming DGFT’s
 - Automation of Applications:
 Worked with the policy division to automate five critical applications, resulting in a 40% improvement in operational efficiency.
 
--Support for India’s Economic Goals:
+- Support for India’s Economic Goals:
 This modernization effort not only enhanced operational efficiency but also contributed to India's broader objective of increasing foreign currency inflows by facilitating seamless trade operations.
 
--Collaboration with Policy Makers:
+- Collaboration with Policy Makers:
 Collaborated with policy makers to implement automated rules and processes that ensured compliance with foreign trade regulations
--User-Centric Solutions:
+- User-Centric Solutions:
 Developed user-centric solutions to streamline the licensing process, making it more accessible and efficient for businesses engaged in international trade.
 
 **Smartphone Industries**
