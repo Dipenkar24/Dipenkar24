@@ -31,7 +31,7 @@ SQL, Power BI, DAX, QlikSenes, AWS, Alteryx,
 -	Data Cleaning, modelling and ETL development on large datasets. 
 
 
-## Apart from professional World
+## Apart from Professional World
 **Never Not Moving** Cycling, Skating, Hiking, Online Games 
 
 
