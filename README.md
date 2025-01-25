@@ -52,7 +52,7 @@ The project garnered substantial recognition, with Shri Piyush Goyal commending 
 -  2016-2017 - 12th CBSE - Spring Meadowas Public School, Delhi
 -  2014-2015 - 10th CBSE - Spring Meadowas Public School, Delhi
 -  2011-2014 - 6th to 9th - Spring Meadowas Public School, Delhi
--  2007-2011 - Primary to 5th - Oxford Public School, Ranchi
+-  2005-2011 - Primary to 5th - Oxford Public School, Ranchi
 
 
 ## Apart from Professional World - Never Not Moving
