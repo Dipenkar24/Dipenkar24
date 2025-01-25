@@ -38,20 +38,15 @@ SQL, Power BI, DAX, QlikSenes, AWS, Alteryx,
 - Service Design Team Contribution:
 As part of the service design team, I played a key role in transforming DGFT’s operations from manual and outdated systems to a modernized, cutting-edge website. This platform enables seamless licensing processes and efficient management of India's import and export activities.
 - Automation of Applications:
-Worked with the policy division to automate five critical applications, resulting in a 40% improvement in operational efficiency.
+Worked with the policy division to implement automated rules and processes for five critical applications, resulting in a 40% improvement in operational efficiency.
 
-- Support for India’s Economic Goals:
-This modernization effort not only enhanced operational efficiency but also contributed to India's broader objective of increasing foreign currency inflows by facilitating seamless trade operations.
-
-- Collaboration with Policy Makers:
-Collaborated with policy makers to implement automated rules and processes that ensured compliance with foreign trade regulations
 - User-Centric Solutions:
 Developed user-centric solutions to streamline the licensing process, making it more accessible and efficient for businesses engaged in international trade.
 -   Apart from ganging domain knowledge  Recognition and Inauguration:
 The project received significant recognition, being inaugurated by Shri Piyush Goyal, and I was personally recommended by both the Deputy Director and Joint Director at DGFT for my and team contributions.
 
 **Smartphone Industries**
-- New Inovation and launches
+- Actively track innovations and new launches in the smartphone market.
 
 
 ## Where What When
@@ -64,12 +59,12 @@ The project received significant recognition, being inaugurated by Shri Piyush G
 -  2007-2011 - Primary to 5th - Oxford Public School, Ranchi
 
 
+## Apart from Professional World - Never Not Moving
+**Cycling, Skating, Hiking, Online Games**  
+
 
 ## Lets connect!
 ![Static Badge](https://img.shields.io/badge/Gmail-%23d3d3d3?style=for-the-badge&logo=gmail&logoColor=red&labelColor=e6e6e6&color=e6e6e6&link=(mailto:atishdipankar99@gmail.com))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankar-atish-business-analyst/)
 
-
-## Apart from Professional World - Never Not Moving
-**Cycling, Skating, Hiking, Online Games**  
 
