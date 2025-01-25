@@ -42,8 +42,8 @@ Worked with the policy division to implement automated rules and processes for f
 
 - User-Centric Solutions:
 Developed user-centric solutions to streamline the licensing process, making it more accessible and efficient for businesses engaged in international trade.
--   Apart from ganging domain knowledge  Recognition and Inauguration:
-The project received significant recognition, being inaugurated by Shri Piyush Goyal, and I was personally recommended by both the Deputy Director and Joint Director at DGFT for my and team contributions.
+-   Apart from ganing domain knowledge  Recognition and Inauguration:
+The project garnered substantial recognition, with Shri Piyush Goyal commending the automation of critical applications. Additionally, both the Joint Director and Deputy Director at DGFT personally recommended me and my team for our contributions.
 
 **Smartphone Industries**
 - Actively track innovations and new launches in the smartphone market.
