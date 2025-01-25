@@ -24,6 +24,7 @@ SQL, Power BI, DAX, QlikSenes, AWS, Alteryx,
 -	Led requirement gathering, feasibility analysis, prepared BRDs/FRDs and maintaining SRS, improving delivery timelines by 20% and reducing defect rates by 50%.
 -	Designed and developed interactive dashboards and ad hoc reporting using Qlik Sense, Power BI, SQL and Excel, delivering insights that improved decision-making across departments.
 -	Conducted comprehensive UAT sessions with stakeholders, ensuring quality assurance and successful project delivery.
+  
 **Analyst (01/01/2022 - 01/02/2023)**
 -	Developed and optimised over 25 dashboards for operational matrices, KPIs and ad-hoc reporting. 
 -	Worked closely with stakeholders to identify reporting needs, ensuring alignment with business objectives and enhancing client satisfaction.
