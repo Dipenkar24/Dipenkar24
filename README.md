@@ -33,11 +33,11 @@ MySQL, Power BI, DAX, QlikSenes, Microsoft Excel, AWS, Alteryx,ETL, CRM tool, Da
 - DGFT plays a critical role in formulating and regulating India’s foreign trade policies, ensuring the smooth functioning of import-export businesses and fostering economic growth of India.
 - Service Design Team Contribution:
 As part of the service design team, I played a key role in transforming DGFT’s operations from manual and outdated systems to a modernized, cutting-edge website. This platform enables seamless licensing processes and efficient management of India's import and export activities.
+
+I have led three applications Advance Authorisation(AA),Annual Advance Authorisation(AAA), Duty Free Import Authorisation(DFIA), Miscellaneous Payment 
 - Automation of Applications:
 Worked with the policy division to implement automated rules and processes for five critical applications, resulting in a 40% improvement in operational efficiency.
 
-- User-Centric Solutions:
-Developed user-centric solutions to streamline the licensing process, making it more accessible and efficient for businesses engaged in international trade.
 -   Apart from ganing domain knowledge  Recognition and Inauguration:
 The project garnered substantial recognition, with Shri Piyush Goyal commending the automation of critical applications. Additionally, both the Joint Director and Deputy Director at DGFT personally recommended me and my team for our contributions.
 
