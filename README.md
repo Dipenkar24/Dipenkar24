@@ -14,6 +14,7 @@ SQL, Power BI, DAX, QlikSenes, AWS, Alteryx,
 
 ## Domain Experience
 - DGFT
+- Smartphone Industries
 
 ## Work Experience
 
