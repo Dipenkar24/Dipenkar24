@@ -14,7 +14,7 @@ SQL, Power BI, DAX, QlikSenes, AWS, Alteryx,
 
 ## Domain Experience
 ** Director General of Foreign Trade (Ministry of Commerce and Industry led by Central Government)**
--I have gained extensive domain experience while working with the Director General of Foreign Trade (DGFT), a central government body under the Ministry of Commerce and Industry, during my tenure at Tata Consultancy Services. 
+- I have gained extensive domain experience while working with the Director General of Foreign Trade (DGFT), a central government body under the Ministry of Commerce and Industry, during my tenure at Tata Consultancy Services. 
 - DGFT plays a critical role in formulating and regulating India’s foreign trade policies, ensuring the smooth functioning of import-export businesses and fostering economic growth of India.
 - Service Design Team Contribution:
 As part of the service design team, I played a key role in transforming DGFT’s operations from manual and outdated systems to a modernized, cutting-edge website. This platform enables seamless licensing processes and efficient management of India's import and export activities.
