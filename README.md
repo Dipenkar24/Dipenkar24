@@ -60,7 +60,6 @@ The project garnered substantial recognition, with Shri Piyush Goyal commending 
 
 
 ## Lets connect!
-![Static Badge](https://img.shields.io/badge/Gmail-%23d3d3d3?style=for-the-badge&logo=gmail&logoColor=red&labelColor=e6e6e6&color=e6e6e6&link=)](mailto:atishdipankar99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankar-atish-business-analyst/)
-
+Email-atishdippankar99@gmail.com
 
