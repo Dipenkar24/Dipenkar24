@@ -48,8 +48,8 @@ The project garnered substantial recognition, with Shri Piyush Goyal commending 
 ## Where What When
 -  Feb 2023 to April 2025 - Business Analyst @TCS
 -  Jan 2022 to Feb 2023 - Analyst @TCS
--  2017-2021 - Bacheloure of Technology (B.Tech) Electrical and Electronics Engineering
--  2016-2017 - 12th CBSE - Spring Meadowas Public School, Delhi
+-  2017-2021 - Bacheloure of Technology (B.Tech) Electrical and Electronics Engineering - (77.3%)
+-  2016-2017 - 12th CBSE - Spring Meadowas Public School, Delhi - (91%)
 -  2014-2015 - 10th CBSE - Spring Meadowas Public School, Delhi
 -  2011-2014 - 6th to 9th - Spring Meadowas Public School, Delhi
 -  2005-2011 - Primary to 5th - Oxford Public School, Ranchi
