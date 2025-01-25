@@ -10,6 +10,16 @@ Power BI, SQL, DAX Qlik Senes
 
 ![]()
 
+## Where What When
+-  Feb 2023 to April 2025 - Business Analyst @TCS
+-  Jan 2022 to Feb 2023 - Analyst @TCS
+-  2017-2021 - Bacheloure of Technology (B.Tech) Electrical and Electronics Engineering
+-  2016-2017 - 12th CBSE - Spring Meadowas Public School, Delhi
+-  2014-2015 - 10th CBSE - Spring Meadowas Public School, Delhi
+-  2011-2014 - 6th to 9th - Spring Meadowas Public School, Delhi
+-  2007-2011 - Primary to 5th - Oxford Public School, Ranchi
+
+
 ## Domain Experience
 - DGFT
 
