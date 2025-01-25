@@ -5,10 +5,13 @@ As a Business Analyst
 ## Skills
 ![]()
 
-💻 **Languages:** Power BI, SQL, DAX Qlik Senes
+Power BI, SQL, DAX Qlik Senes
 ## 
 
 ![]()
+
+## Domain Experience
+- DGFT
 
 ## Work Experience
 -	gefe
