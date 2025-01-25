@@ -17,13 +17,13 @@ SQL, Power BI, DAX, QlikSenes, AWS, Alteryx,
 
 ## Work Experience
 
-Business Analyst (01/02/2023 - Present)
+## Business Analyst (01/02/2023 - Present)
 -	Key contributor to the service design team, leading the transformation of the client from a legacy system and manual processes to a digitally transformed environment.
 - Collaborated with client’s policy division to develop and implement automation rules for over 5 applications, resulting in 40% increase in processing efficiency.
 -	Led requirement gathering, feasibility analysis, prepared BRDs/FRDs and maintaining SRS, improving delivery timelines by 20% and reducing defect rates by 50%.
 -	Designed and developed interactive dashboards and ad hoc reporting using Qlik Sense, Power BI, SQL and Excel, delivering insights that improved decision-making across departments.
 -	Conducted comprehensive UAT sessions with stakeholders, ensuring quality assurance and successful project delivery.
-Analyst (01/01/2022 - 01/02/2023)
+## Analyst (01/01/2022 - 01/02/2023)
 -	Developed and optimised over 25 dashboards for operational matrices, KPIs and ad-hoc reporting. 
 -	Worked closely with stakeholders to identify reporting needs, ensuring alignment with business objectives and enhancing client satisfaction.
 -	Resolved significant data integration challenges between legacy and new systems, achieving a 70% correction in data accuracy.
