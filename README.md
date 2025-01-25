@@ -15,20 +15,20 @@ SQL, Power BI, DAX, QlikSenes, AWS, Alteryx,
 ## Domain Experience
 ** Director General of Foreign Trade (Ministry of Commerce and Industry led by Central Government)**
 -I have gained extensive domain experience while working with the Director General of Foreign Trade (DGFT), a central government body under the Ministry of Commerce and Industry, during my tenure at Tata Consultancy Services. 
--DGFT plays a critical role in formulating and regulating India’s foreign trade policies, ensuring the smooth functioning of import-export businesses and fostering economic growth of India.
--Service Design Team Contribution:
+- DGFT plays a critical role in formulating and regulating India’s foreign trade policies, ensuring the smooth functioning of import-export businesses and fostering economic growth of India.
+- Service Design Team Contribution:
 As part of the service design team, I played a key role in transforming DGFT’s operations from manual and outdated systems to a modernized, cutting-edge website. This platform enables seamless licensing processes and efficient management of India's import and export activities.
--Automation of Applications:
+- Automation of Applications:
 Worked with the policy division to automate five critical applications, resulting in a 40% improvement in operational efficiency.
 
-Support for India’s Economic Goals:
+-Support for India’s Economic Goals:
 This modernization effort not only enhanced operational efficiency but also contributed to India's broader objective of increasing foreign currency inflows by facilitating seamless trade operations.
 
-Collaboration with Policy Makers:
-Collaborated with policy makers to implement automated rules and processes that ensured compliance with foreign trade regulations.
-
-User-Centric Solutions:
+-Collaboration with Policy Makers:
+Collaborated with policy makers to implement automated rules and processes that ensured compliance with foreign trade regulations
+-User-Centric Solutions:
 Developed user-centric solutions to streamline the licensing process, making it more accessible and efficient for businesses engaged in international trade.
+
 **Smartphone Industries**
 - New Inovation and launches
 
