@@ -28,6 +28,8 @@ This modernization effort not only enhanced operational efficiency but also cont
 Collaborated with policy makers to implement automated rules and processes that ensured compliance with foreign trade regulations
 - User-Centric Solutions:
 Developed user-centric solutions to streamline the licensing process, making it more accessible and efficient for businesses engaged in international trade.
+-   Apart from ganging domain knowledge  Recognition and Inauguration:
+The project received significant recognition, being inaugurated by Shri Piyush Goyal, and I was personally recommended by both the Deputy Director and Joint Director at DGFT for my and team contributions.
 
 **Smartphone Industries**
 - New Inovation and launches
