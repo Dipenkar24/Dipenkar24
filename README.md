@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @Dipankar24
-- 👀 I’m working as a Business Data Analyst
-- 💞️ I’m looking to collaborate with data projects
-- 📫 How to reach me through mail
-<!---
-Dipenkar24/Dipenkar24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Dipankar Atish ()
+
+As a Business Analyst
+
+## Skills
+![]()
+
+💻 **Languages:** Power BI, SQL, DAX Qlik Senes
+## 
+
+![]()
+
+## Work Experience
+-	gefe
+-	qwq
+-	anka
+
+
+## Apart from professional World
+**Never Not Moving** Cycling, Skating, Hiking, Online Games 
+
+## Lets connect!
+![Static Badge](https://img.shields.io/badge/Gmail-%23d3d3d3?style=for-the-badge&logo=gmail&logoColor=red&labelColor=e6e6e6&color=e6e6e6&link=(mailto:atishdipankar99@gmail.com))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankar-atish-business-analyst/)
+
