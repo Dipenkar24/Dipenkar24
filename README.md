@@ -35,7 +35,7 @@ MySQL, Power BI, DAX, QlikSenes, Microsoft Excel, AWS, Alteryx, ETL, CRM tool, D
 - Service Design Team Contribution:
 As part of the service design team, I played a key role in transforming DGFT’s operations from manual and outdated systems to a modernized, cutting-edge website. This platform enables seamless licensing processes and efficient management of India's import and export activities.
 
-I have led three applications Advance Authorisation(AA),Annual Advance Authorisation(AAA), Duty Free Import Authorisation(DFIA), Miscellaneous Payment 
+- I have led three applications Advance Authorisation(AA),Annual Advance Authorisation(AAA), Duty Free Import Authorisation(DFIA),Interest Equalisation Scheme(IES), Diamond Imprest Authorisation (DIA)  Miscellaneous Payment 
 - Automation of Applications:
 Worked with the policy division to implement automated rules and processes for five critical applications, resulting in a 40% improvement in operational efficiency.
 
