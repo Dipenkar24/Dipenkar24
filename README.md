@@ -1,6 +1,6 @@
 # Dipankar Atish
 
-As a Business Analyst/Product Owner, I have successfully initiated and led application development projects from requirement 
+As a Business Analyst/Product Owner with 3+ years of experience, I have successfully initiated and led application development projects from requirement 
 gathering to implementation, ensuring alignment with business objectives and delivering scalable solutions for millions of users.  
 With a strong focus on data visualization, business intelligence, and data analysis, I excel at transforming raw data into actionable 
 reports and dashboards, leveraging tools such as Qlik Sense, Power BI, and SQL to drive data-driven decision-making. 
