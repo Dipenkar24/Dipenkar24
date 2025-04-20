@@ -42,6 +42,13 @@ Worked with the policy division to implement automated rules and processes for f
 -   Apart from ganing domain knowledge  Recognition and Inauguration:
 The project garnered substantial recognition, with Shri Piyush Goyal commending the automation of critical applications. Additionally, both the Joint Director and Deputy Director at DGFT personally recommended me and my team for our contributions.
 
+**Colabrated with**
+- Ports and Customs
+- RBI and EXIM Banks
+- NSWS
+- MCA
+
+
 **Smartphone Industries**
 - Actively track innovations and new launches in the smartphone and it's acessories industries.
 
