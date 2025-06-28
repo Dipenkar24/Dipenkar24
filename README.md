@@ -7,8 +7,8 @@ reports and dashboards, leveraging tools such as Qlik Sense, Power BI, and SQL t
 
 ## Skills
 ![]()
-MySQL, Power BI, DAX, QlikSenes, Microsoft Excel, AWS, Alteryx, ETL, CRM tool, Data Modeling, Documenting BRD/FRD and SRS
-
+MySQL, Power BI, DAX, QlikSenes, Microsoft Excel, AWS, Alteryx, ETL, CRM tool, Data Modeling
+Jira, Confluence, Figma, Wireframing, Documenting BRD/FRD and SRS
 
 ## Work Experience
 ![]()
