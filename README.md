@@ -13,23 +13,22 @@ Jira, Confluence, Figma, Wireframing, Documenting BRD/FRD and SRS
 ## Work Experience
 ![]()
 
-**Business Analyst (05/05/2025 - Present))**
-Building products for energy and utility sector across the globe.
-
+**Business Analyst @ SEW (05/05/2025 - Present))**
+- Building products for energy and utility sector across the globe.
 - Conducting research on Power, Gas, Water Energy utilities to support net-zero initiatives. 
 - Supporting enhancement and implementation of a B2B SaaS platform for global utility clients and end customers. 
 - Collaborating on key modules such as API integration, CRM, notifications, payment workflows and analytics dashboards. 
 - Participating in workshops and assisting in the finalization of DOU. 
 - Creating user stories and functional documentation for development in an Agile environment.
 
-**Business Analyst (01/02/2023 - 01/04/2025))**
+**Business Analyst @TCS (01/02/2023 - 01/04/2025))**
 -	Key contributor to the service design team, leading the transformation of the client from a legacy system and manual processes to a digitally transformed environment.
 - Collaborated with client’s policy division to develop and implement automation rules for over 5 applications, resulting in 40% increase in processing efficiency.
 -	Led requirement gathering, feasibility analysis, prepared BRDs/FRDs and maintaining SRS, improving delivery timelines by 20% and reducing defect rates by 50%.
 -	Designed and developed interactive dashboards and ad hoc reporting using Qlik Sense, Power BI, SQL and Excel, delivering insights that improved decision-making across departments.
 -	Conducted comprehensive UAT sessions with stakeholders, ensuring quality assurance and successful project delivery.
   
-**Analyst (01/01/2022 - 01/02/2023)**
+**Analyst @TCS (01/01/2022 - 01/02/2023)**
 -	Developed and optimised over 25 dashboards for operational matrices, KPIs and ad-hoc reporting. 
 -	Worked closely with stakeholders to identify reporting needs, ensuring alignment with business objectives and enhancing client satisfaction.
 -	Resolved significant data integration challenges between legacy and new systems, achieving a 70% correction in data accuracy.
