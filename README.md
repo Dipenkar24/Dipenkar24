@@ -12,6 +12,16 @@ MySQL, Power BI, DAX, QlikSenes, Microsoft Excel, AWS, Alteryx, ETL, CRM tool, D
 
 ## Work Experience
 ![]()
+
+**Business Analyst (05/05/2025 - Present))**
+Building products for energy and utility sector across the globe.
+
+• Conducting research on Power, Gas, Water Energy utilities to support net-zero initiatives. 
+• Supporting enhancement and implementation of a B2B SaaS platform for global utility clients and end customers. 
+• Collaborating on key modules such as API integration, CRM, notifications, payment workflows and analytics dashboards. 
+• Participating in workshops and assisting in the finalization of DOU. 
+• Creating user stories and functional documentation for development in an Agile environment.
+
 **Business Analyst (01/02/2023 - 01/04/2025))**
 -	Key contributor to the service design team, leading the transformation of the client from a legacy system and manual processes to a digitally transformed environment.
 - Collaborated with client’s policy division to develop and implement automation rules for over 5 applications, resulting in 40% increase in processing efficiency.
@@ -54,7 +64,8 @@ The project garnered substantial recognition, with Shri Piyush Goyal commending 
 - Actively track innovations and new launches in the smartphone and it's acessories industries.
 
 
-## Where What When
+## Where What When  
+-  May 2025 to Present - Business Analyst @SEW (Smart Energy Water) 
 -  Feb 2023 to April 2025 - Business Analyst @TCS (Best Team Award)
 -  Jan 2022 to Feb 2023 - Analyst @TCS
 -  2017-2021 - Bacheloure of Technology (B.Tech) Electrical and Electronics Engineering - (77.3%)
