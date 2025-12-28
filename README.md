@@ -13,7 +13,7 @@ Jira, Confluence, Figma, Wireframing, Documenting BRD/FRD and SRS
 ## Work Experience
 ![]()
 
-**Business Analyst @ SEW (05/05/2025 - Present))**
+**Product Analyst @ SEW (05/05/2025 - Present))**
 - Building products for energy and utility sector across the globe.
 - Conducting research on Power, Gas, Water Energy utilities to support net-zero initiatives. 
 - Supporting enhancement and implementation of a B2B SaaS platform for global utility clients and end customers. 
